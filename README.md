@@ -11,5 +11,9 @@ Features :
 - Ensures strong and secure passwords.
 - User-friendly interface.
 
-Technologies Used
-- **Frontend:** HTML, CSS, JavaScript
+Technologies Used:
+- HTML,
+- CSS,
+- JavaScript.
+
+VISIT : https://saklenrs-csengr.github.io/Random-Password-Generator/
